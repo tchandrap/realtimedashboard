@@ -1,6 +1,6 @@
 backports-abc==0.5
 certifi==2017.4.17
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 rethinkdb==2.3.0.post6
 singledispatch==3.4.0.3
