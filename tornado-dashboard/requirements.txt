@@ -1,5 +1,5 @@
 backports-abc==0.5
-certifi==2017.4.17
+certifi==2022.12.7
 Jinja2==2.9.6
 MarkupSafe==1.0
 rethinkdb==2.3.0.post6
